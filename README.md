@@ -1,4 +1,7 @@
+
 # Olden Era — Арена для двоих
+
+<img width="2560" height="1600" alt="startGame" src="https://github.com/user-attachments/assets/ea78cbcc-5f51-4d1c-8324-80d2b76c19c5" />
 
 Неофициальный мод для **Heroes of Might and Magic: Olden Era**, который позволяет двум людям сражаться на арене **за одним компьютером**.
 
