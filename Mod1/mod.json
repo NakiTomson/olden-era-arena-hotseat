@@ -1,0 +1,16 @@
+{
+  "id": "arena-hotseat",
+  "name": "Арена для двоих",
+  "version": "0.2.1",
+  "requiresBepInEx": true,
+  "gameAssemblySha256": "bb4ea1f5b28af6b3f21031bb53f7fa50021579a8c74ade2f05904696d6fdb38a",
+  "description": "Выбирайте Игрок-компьютер или Игрок во втором слоте локальной Арены через меню Хотсит. Для двоих подготовка последовательно передаётся второму игроку. Поддерживается Steam-сборка 25061458.",
+  "validation": "Версия 0.2.1: работоспособность подтверждена пользователем 13 сентября 2026 года. Сброс шкалы подготовки второго игрока реализован; все сочетания героев и других модов не перебраны.",
+  "files": [
+    {
+      "source": "payload/BepInEx/plugins/ArenaHotseat/ArenaHotseat.dll",
+      "target": "BepInEx/plugins/ArenaHotseat/ArenaHotseat.dll",
+      "sha256": "4f9b1f6632dd8db45d3213d422b0130e6d1d14b246c51c3b243b30864fc95d0f"
+    }
+  ]
+}

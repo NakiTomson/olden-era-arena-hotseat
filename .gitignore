@@ -1,0 +1,29 @@
+# Build outputs and downloaded runtime; keep the reviewed manifest.
+*.exe
+*.dll
+*.pdb
+*.zip
+*.nupkg
+*.rsp
+Launcher/runtime/*
+!Launcher/runtime/runtime.json
+Mod1/payload/
+bin/
+obj/
+dist/
+artifacts/
+
+# Per-installation state, backups and temporary analysis.
+settings.json
+state.json
+pending-transaction.json
+status-output.json
+last-error.txt
+smoke-results.json
+backups/
+transactions/
+.work/
+monitor/
+*.log
+.vs/
+.idea/

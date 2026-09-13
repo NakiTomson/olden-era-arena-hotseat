@@ -1,0 +1,141 @@
+[
+  {
+    "name": "BepInEx",
+    "repo": "BepInEx/BepInEx",
+    "ref": "5b766a3b7f6c164d4798924a93f3acf4db769d06",
+    "notices": [
+      "licenses/BepInEx-LICENSE"
+    ]
+  },
+  {
+    "name": "Il2CppInterop",
+    "repo": "BepInEx/Il2CppInterop",
+    "ref": "dbda1cb353b0f4253345dc45136d170b9e50a5a0",
+    "notices": [
+      "licenses/Il2CppInterop-LICENSE"
+    ]
+  },
+  {
+    "name": "UnityDoorstop",
+    "repo": "NeighTools/UnityDoorstop",
+    "ref": "v4.5.0",
+    "notices": [
+      "licenses/UnityDoorstop-LICENSE"
+    ]
+  },
+  {
+    "name": "HarmonyX",
+    "repo": "BepInEx/HarmonyX",
+    "ref": "v2.10.2",
+    "notices": [
+      "licenses/HarmonyX-LICENSE",
+      "licenses/HarmonyX-LICENSE.Harmony"
+    ]
+  },
+  {
+    "name": "AsmResolver",
+    "repo": "Washi1337/AsmResolver",
+    "ref": "124e161a9bc0ebb83b4d97276ae3da3c9cfe2fc5",
+    "notices": [
+      "licenses/AsmResolver-LICENSE.md"
+    ]
+  },
+  {
+    "name": "Cpp2IL",
+    "repo": "SamboyCoding/Cpp2IL",
+    "ref": "558ddd98642010897d54316b51fbaa7889fda093",
+    "notices": [
+      "licenses/Cpp2IL-LICENSE"
+    ]
+  },
+  {
+    "name": "Disarm",
+    "repo": "SamboyCoding/Disarm",
+    "ref": "8574010015c8c56bb7faad7e407c50b0abe9cc72",
+    "notices": [
+      "licenses/Disarm-LICENSE"
+    ]
+  },
+  {
+    "name": "Iced",
+    "repo": "icedland/iced",
+    "ref": "601c40570d6c986c8e1a6a2e483dd2fdf5ade552",
+    "notices": [
+      "licenses/Iced-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "Mono.Cecil",
+    "repo": "jbevain/cecil",
+    "ref": "0.11.4",
+    "notices": [
+      "licenses/Mono.Cecil-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "MonoMod",
+    "repo": "MonoMod/MonoMod",
+    "ref": "v22.07.31.01",
+    "notices": [
+      "licenses/MonoMod-LICENSE"
+    ]
+  },
+  {
+    "name": "DotNet",
+    "repo": "dotnet/runtime",
+    "ref": "0ec02c8c96e2eda06dc5b5edfdbdba0f36415082",
+    "notices": [
+      "licenses/DotNet-LICENSE.TXT",
+      "licenses/DotNet-THIRD-PARTY-NOTICES.TXT"
+    ]
+  },
+  {
+    "name": "AssetRipper.CIL",
+    "repo": "AssetRipper/AssetRipper.CIL",
+    "ref": "06216e69825ccd6536dc17e9ca81c4d539ce9321",
+    "notices": [
+      "licenses/AssetRipper.CIL-LICENSE"
+    ]
+  },
+  {
+    "name": "AssetRipper.Primitives",
+    "repo": "AssetRipper/AssetRipper.Primitives",
+    "ref": "d759b3db98bf2a1cb8c2181faf5d405610aac585",
+    "notices": [
+      "licenses/AssetRipper.Primitives-License.md"
+    ]
+  },
+  {
+    "name": "Capstone.NET",
+    "repo": "9ee1/Capstone.NET",
+    "ref": "b90e380c14e857865c94a355954236e678bd557c",
+    "notices": [
+      "licenses/Capstone.NET-LICENSE",
+      "licenses/Capstone.NET-Runtime-LICENSE.TXT"
+    ]
+  },
+  {
+    "name": "Dobby",
+    "repo": "BepInEx/Dobby",
+    "ref": "v1.0.5",
+    "notices": [
+      "licenses/Dobby-LICENSE"
+    ]
+  },
+  {
+    "name": "MonoMod.Backports",
+    "repo": "MonoMod/MonoMod",
+    "ref": "a1b82852b",
+    "notices": [
+      "licenses/MonoMod.Backports-LICENSE"
+    ]
+  },
+  {
+    "name": "SemanticVersioning",
+    "repo": "adamreeve/semver.net",
+    "ref": "2.0.2",
+    "notices": [
+      "licenses/SemanticVersioning-LICENSE"
+    ]
+  }
+]
